@@ -1,0 +1,14 @@
+{
+    "user" : {
+        "firstName" : "Pera",
+        "lastName" : "Markovic",
+        "mobileNumber" : "2432432432",
+        "email" : "zikamika@gmail.com",
+        "password" : "sifra123"
+    },
+
+    "hotel" : {
+        "checkin" : "05/06/2021",
+        "checkout" : "08/06/2021"
+    }
+}
